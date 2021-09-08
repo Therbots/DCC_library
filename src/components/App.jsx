@@ -44,7 +44,7 @@ class App extends Component {
         console.log('From the creatBook on App component', newBook);
         this.books.push(newBook);
         this.setState({
-            bookNumber:this.books.length -1
+            bookNumber: this.books.length -1
         })
     }
 

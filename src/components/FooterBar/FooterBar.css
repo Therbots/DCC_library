@@ -1,11 +1,12 @@
 .footerbar-nav {
     background-color: lightblue;
     width: 100%;
-    margin-top: 2em; /* negative value of footer height */
+    box-shadow: 0 50vh 0 50vh lightblue;
+    text-align: center;
+    margin-top: 2em; 
 }
 
 .h4 {
     padding-top: 0.2em;
     padding-left: 1em;
 }
-
